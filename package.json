@@ -17,7 +17,7 @@
   "repository": { "type": "git", "url": "https://github.com/harmon25/node-usb-barcode-scanner"},
   "license": "GPLv3",
   "dependencies": {
-    "node-hid": "^0.4.0",
+    "node-hid": "^0.7.2",
     "underscore": "^1.8.3"
   }
 }
